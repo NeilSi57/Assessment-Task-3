@@ -11,5 +11,14 @@ Storage: The game should be saved locally and should save the player's location,
 ## User Interaction 
 Users can interact using the W,A,S,D,  and arrow keys to move there will also be a "sprinting" mode which players can use to boost their speed for a short time and can do this by double tapping the W key. Players can also use the space bar to make their character jump. There will be two more special keys which are E for opening your inventory and R for dropping items from it. Finally, the mouse/cursor will be used to interact with NPCs, objects, and more
 ## Core Gameplay and Simulation Mechanics 
+They're will be ,ovement keys which are W,A,S,D and arrow keys this will be used for traveling forwards, backwards, left and right. Space bar for jumping, and doubling taping W for a speed bost, they're al;so be a button to open your inventory which is E and R to drop items from it. And clicking your mouse and cursor wll be used for various purposes like grabing and moving items, intercating with NPC's and more.
 ## Scoring and feedback
-There won't be many ways to 
+There will be 2 main scoring systems' one is xp which you can get from logining in, discovering new places and interacting with new objects.
+## Level Progression or Simulation Stages
+There will be multiple locations and bosses in every one of them and the only way to to complete the level is to beat the boss and you can't fight the boss until you complete quests 
+## Saving and Loading Data 
+The game will save all your diferent location in the map you unlock it will also save you xp level and the data will be stored remotly 
+# Non Functional Requirments
+## Performance Requirments 
+The performance should be very smooth. It should have smooth controls and run smoothly or else people migh switch games, the speed that it loads at is also important but not as much as the other two things.
+## Usability Requirments
