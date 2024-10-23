@@ -11,15 +11,25 @@ Storage: The game should be saved locally and should save the player's location,
 ## User Interaction 
 Users can interact using the W,A,S,D,  and arrow keys to move there will also be a "sprinting" mode which players can use to boost their speed for a short time and can do this by double tapping the W key. Players can also use the space bar to make their character jump. There will be two more special keys which are E for opening your inventory and R for dropping items from it. Finally, the mouse/cursor will be used to interact with NPCs, objects, and more
 ## Core Gameplay and Simulation Mechanics 
-There will be, movement keys which are W,A,S,D, and arrow keys which will be used for traveling forward, backward, left, and right. Space bar for jumping, and doubling taping W for a speed boost, There's also be a button to open your inventory which is E and R to drop items from it. Clicking your mouse and cursor will be used for various purposes like grabbing and moving items, interacting with NPC's, and more.
+There will be, movement keys which are W,A,S,D, and arrow keys which will be used for traveling forward, backward, left, and right. Space bar for jumping, and doubling taping W for a speed boost, There's also a button to open your inventory which is E and R to drop items from it. Clicking your mouse and cursor will be used for various purposes like grabbing and moving items, interacting with NPC's, and more.
 ## Scoring and feedback
-There will be 2 main scoring systems' one is xp which you can get from logging in, discovering new places, and interacting with new objects.
+There will be 2 main scoring systems' one is XP which you can get from logging in, discovering new places, and interacting with new objects.
 ## Level Progression or Simulation Stages
 There will be multiple locations and bosses in every one of them and the only way to complete the level is to beat the boss you can't fight the boss until you complete quests 
 ## Saving and Loading Data 
-The game will save all your different locations in the map you unlock it will also save your xp level and the data will be stored remotely 
+The game will save all your different locations in the map you unlock it will also save your XP level and the data will be stored remotely 
 # Non-Functional Requirments
 ## Performance Requirments 
 The performance should be very smooth. It should have smooth controls and run smoothly or else people might switch games, the speed that it loads at is also important but not as much as the other two things.
 ## Usability Requirments
+There will be NPCs to interact with which will help guide users in their quest and teach them extra controls to help them learn how to play the game.
+## Compatibility Requirements
+The game should run on a mobile, laptop, and PC and should be compatible with both Andriod and iOS 
+## Scalibilty Requirments 
+The game will add new areas to the map as the game continues to grow
+## Security Requirements
+Each player will have to create an account with a secure password to help protect their account
+## Reliability and Availability 
+The system should be online 24/7 so that people around the world anytime
+
 
