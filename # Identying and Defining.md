@@ -31,5 +31,16 @@ The game will add new areas to the map as the game continues to grow
 Each player will have to create an account with a secure password to help protect their account
 ## Reliability and Availability 
 The system should be online 24/7 so that people around the world anytime
+## Pseudo Code
+### Begin Movement
+### &nbsp; If W is double tapped
+### &nbsp; &nbsp; Then sprint 
+### &nbsp; If W is pressed 
+### &nbsp; &nbsp; Then move player forward
+### &nbsp; Is S is Pressed
+### &nbsp; &nbsp; Then move player back
+### &nbsp;
+### &nbsp;
 
-
+## Flowgirthm
+<img title="a title" alt="Alt text" src="![Alt text](FlowGorthim.PNG)">
