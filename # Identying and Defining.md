@@ -30,13 +30,19 @@ The game will add new areas to the map as the game continues to grow
 ## Security Requirements
 Each player will have to create an account with a secure password to help protect their account
 ## Reliability and Availability 
-The system should be online 24/7 so that people around the world anytime
+The system should be online 24/7 so that people around the world anytime and play whenever they want
+# Consideration of Social and ethical issues
+## Define the following terms
+## Equity
+Equity can be defined as the amount of money the owner of an asset would be paid after selling it and any debts associated with the asset were paid off. 
+## Accessibility
+Accessibility is the practice of making your websites usable by as many people as possible. The practice of making sites accessible also benefits other groups such as those using mobile devices, or those with slow network connections.
 ## PMI Table
 | Name              | Positive | Negative | Implication |
 | :---------------- | :------: | -------: | -------: |
-| Spiderman 2       |    The idea of the game is very engaging it involves a popular superhero spiderman, and his villains which all appeal to kids between the ages of 10 - 18. The idea of boss fights and exploring the city and new places give kids a brand new and engaging exprence
+| Spiderman 2       |    The idea of the game is very engaging it involves a popular superhero spiderman, and his villains which all appeal to kids between the ages of 10 - 18. The idea of boss fights and exploring the city and new places give kids a brand new and engaging experience
 
-The game can improve hand-eye coordination, motor skills,  and quick thinking skills which are useful for younger kids. This can be useful to them in the future as it helps with catching and throwing skills and the motor skills help overall physical development and balance, and quick thinking skills can be useful in sports. This can all be proven as games constantly require you to look and screen so you need to know where all the controls are. The motor skills can be proven as they require precise and smooth movement. Games help quick thinking skills as in boss fights you need to use your knowledge in the game to quickly find ways to beat the "boss"
+The game can improve hand-eye coordination, motor skills,  and quick-thinking skills which are useful for younger kids. This can be useful to them in the future as it helps with catching and throwing skills and the motor skills help overall physical development and balance, and quick thinking skills can be useful in sports. This can all be proven as games constantly require you to look and screen so you need to know where all the controls are. The motor skills can be proven as they require precise and smooth movement. Games help quick thinking skills as in boss fights you need to use your knowledge in the game to quickly find ways to beat the "boss"
 
 Spiderman 2 can help your memory as you need to remember where things are located in different parts of the city, you also need to remember the different controls and combos to help win your fight. This can all prove the fact of how Spiderman 2 can help your memory.  |  | 23.99 |
 |         NBA2K   |   True   | 23.99 | 23.99 |
