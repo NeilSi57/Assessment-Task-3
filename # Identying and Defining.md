@@ -56,3 +56,5 @@ Spiderman 2 can help your memory as you need to remember where things are locate
 
 ## Flowgirthm
 ![Alt text](FlowGorthim.PNG)
+![Alt text](FlowGorthim2+.PNG.jpg)
+![Alt text](FlowGorthim3.PNG)
