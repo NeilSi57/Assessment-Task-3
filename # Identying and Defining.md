@@ -33,10 +33,22 @@ Each player will have to create an account with a secure password to help protec
 The system should be online 24/7 so that people around the world anytime and play whenever they want
 # Consideration of Social and ethical issues
 ## Define the following terms
-## Equity
-Equity can be defined as the amount of money the owner of an asset would be paid after selling it and any debts associated with the asset were paid off. 
 ## Accessibility
 Accessibility is the practice of making your websites usable by as many people as possible. The practice of making sites accessible also benefits other groups such as those using mobile devices, or those with slow network connections.
+## Equity
+Equity can be defined as the amount of money the owner of an asset would be paid after selling it and any debts associated with the asset were paid off. 
+## Acessibility
+Consideration - My game should aim to be useable by lots of different people while there may be a few things that stop  people from playing most people should be able to play. Having the game be more accessible to different people is very good since it will allow the game to get more players and more people to be able to play my game if they can't play others.
+Guidance - My game should have subtitles and will be able to give hints and directions if a player gets stuck in a certain part.
+## Privacy and Data protection
+Consideration - The game will store player data but this will only include, the player's XP and the player's locations unlocked. There will only be a very small amount of data stored so that in case of a hack the player doesn't lose much.  
+Guidance - The player will have to allow they want there high scores to be public or stored otherwise they won't be and also the amount of the map they unlocked. This is important to have the player's consent so that if they don't want their score to be public we know.
+## Fairness and Representation
+Consideration - The game should not create any negative images, and since it mostly relates to wildlife it would not. Having negative stereotypes in your game is very disrespectful since it could negatively impact players causing them to feel sad.
+Guidance - The game won't include harmful stereotypes or negative images the game won't have that many humans in it so that people don't get offended and also because it doesn't relate to the theme. 
+## Cultural Sensitivities 
+Consideration - The game will involve travel to different areas but won't negatively impact the area and the culture, the game will tend to stay away from human life so there wouldn't be many references to make
+Guidance - There won't be any symbols or themes relating to any cultures or areas especially negative ones. The game will make sure to stay away from human life and won't delve into many cultures or their history of them.  
 ## PMI Table
 | Name              | Positive | Negative | Implication |
 | :---------------- | :------: | -------: | -------: |
@@ -51,7 +63,7 @@ Spiderman 2 can help your memory as you need to remember where things are locate
 
 ## Pseudo Code
 ### Begin Movement
-### &nbsp; If W is double tapped
+### &nbsp; If W is double-tapped
 ### &nbsp; &nbsp; Then sprint 
 ### &nbsp; If W is pressed 
 ### &nbsp; &nbsp; Then move player forward
