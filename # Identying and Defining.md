@@ -13,7 +13,7 @@ Users can interact using the W,A,S,D,  and arrow keys to move there will also be
 ## Core Gameplay and Simulation Mechanics 
 There will be, movement keys which are W,A,S,D, and arrow keys which will be used for traveling forward, backward, left, and right. Space bar for jumping, and doubling taping W for a speed boost, There's also a button to open your inventory which is E and R to drop items from it. Clicking your mouse and cursor will be used for various purposes like grabbing and moving items, interacting with NPC's, and more.
 ## Scoring and feedback
-There will be 2 main scoring systems' one is XP which you can get from logging in, discovering new places, and interacting with new objects.
+There will be 2 main scoring systems one is XP which you can get from logging in, discovering new places, and interacting with new objects.
 ## Level Progression or Simulation Stages
 There will be multiple locations and bosses in every one of them and the only way to complete the level is to beat the boss you can't fight the boss until you complete quests 
 ## Saving and Loading Data 
@@ -49,16 +49,12 @@ Guidance - The game won't include harmful stereotypes or negative images the gam
 ## Cultural Sensitivities 
 Consideration - The game will involve travel to different areas but won't negatively impact the area and the culture, the game will tend to stay away from human life so there wouldn't be many references to make
 Guidance - There won't be any symbols or themes relating to any cultures or areas especially negative ones. The game will make sure to stay away from human life and won't delve into many cultures or their history of them.  
-## PMI Table
+# PMI Table
 | Name              | Positive | Negative | Implication |
 | :---------------- | :------: | -------: | -------: |
-| Spiderman 2       |    The idea of the game is very engaging it involves a popular superhero spiderman, and his villains which all appeal to kids between the ages of 10 - 18. The idea of boss fights and exploring the city and new places give kids a brand new and engaging experience
-
-The game can improve hand-eye coordination, motor skills,  and quick-thinking skills which are useful for younger kids. This can be useful to them in the future as it helps with catching and throwing skills and the motor skills help overall physical development and balance, and quick thinking skills can be useful in sports. This can all be proven as games constantly require you to look and screen so you need to know where all the controls are. The motor skills can be proven as they require precise and smooth movement. Games help quick thinking skills as in boss fights you need to use your knowledge in the game to quickly find ways to beat the "boss"
-
-Spiderman 2 can help your memory as you need to remember where things are located in different parts of the city, you also need to remember the different controls and combos to help win your fight. This can all prove the fact of how Spiderman 2 can help your memory.  |  | 23.99 |
-|         NBA2K   |   True   | 23.99 | 23.99 |
-| Brawlstars  |  False   | 19.99 | 23.99 |
+| Spiderman 2       |    The idea of the game is very engaging it involves a popular superhero spiderman, The game can improve hand-eye coordination, motor skills,  and quick-thinking skills which are useful for younger kids. Spiderman 2 can help your memory as you need to remember where things are located in different parts of the city, | Spiderman 2 is one of the most popular games because of how addicting it is. Spiderman 2 is also too repetitive and similair to the first game The main plot wasn't very interesting and was finished to quick  | The idea of having an explorable map is very interesting and something I would like to add to my game.  |
+|         NBA2K   |   The game has multiple different modes, which help keep the game entertaining over a longer time. The game can help your memory. Your memory can be trained as you need to smoothly press different buttons to shoot, pass, set screens, run plays, block, steal, defend, sprint, and more. The in-game currency in NBA can be earned in other ways rather than buying with real money.   | The game gets replaced every year. Every year 2k releases the next version of NBA and shuts down the severs to an older version making it unplayable. This will cause kids to spend money on the new verson, When they release a new version the preorders normally coast around 120$ which is very expensive,A lot of things in My Career cost money including packs and upgrading your player. | The idea to gain in-game currency without paying for it is good, this will help kids not spend more money on the game. |
+| Brawlstars  |  The game gets constant updates making the game feel brand new and interesting. The progression system is very easy to understand, you have to get wins with brawlers and get more brawlers and gain more total trophies. The developers give the Brawl Stars community lots of events which can help people get a lot of free rewards.   | The game is very addicting, The game constantly makes updates and changes to make people play even more. The game makes a brawl pass.  This cause to spend even more money on the game they are able to do this by showing the rewards they miss out on without a brawl pass. The game is very toxic. The developers constantly release toxic and negative pins, which can lead to online bullying. | Events. This is a fun way to cause the community to work together and unlock fun rewards, this will also help people progress in our game without spending money on the game. |
 
 
 ## Pseudo Code
@@ -73,6 +69,12 @@ Spiderman 2 can help your memory as you need to remember where things are locate
 ### &nbsp;
 
 ## Flowgirthm
+## User Interaction 
 ![Alt text](FlowGorthim.PNG)
+## Scoring and feedback
 ![Alt text](FlowGorthim2+.PNG.jpg)
 ![Alt text](FlowGorthim3.PNG)
+## Level Progression or Simulation Stages
+![Alt text](FlowGorthim4.PNG.jpg)
+## Saving and Loading Data 
+![Alt text](FlowGorthim5+.PNG.jpg)
