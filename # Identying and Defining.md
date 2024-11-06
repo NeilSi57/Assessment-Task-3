@@ -78,3 +78,5 @@ Guidance - There won't be any symbols or themes relating to any cultures or area
 ![Alt text](FlowGorthim4.PNG.jpg)
 ## Saving and Loading Data 
 ![Alt text](FlowGorthim5+.PNG.jpg)
+# Gnatt Chart
+![Alt text](Screen%20Shot%202024-11-06%20at%2011.32.23%20am.png)
