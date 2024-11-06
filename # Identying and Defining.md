@@ -82,3 +82,16 @@ Guidance - There won't be any symbols or themes relating to any cultures or area
 # Gnatt Chart
 ![Alt text](Screen%20Shot%202024-11-06%20at%2011.32.23%20am.png)
 
+# StoryBoard scenes
+## Openning scene
+![Alt text](Screen%20Shot%202024-11-06%20at%205.39.48%20pm.png)
+![Alt text](Storyboard%20support%201.jpg)
+## Death Scene
+![Alt text](Death%20Scene.jpg)
+![Alt text](Storyboard%20support%202.jpg)
+## Loaction to Teleport to Scene
+![Alt text](Screen%20Shot%202024-11-06%20at%205.39.00%20pm.png)
+![Alt text](Storyboard%20support%203.jpg)
+## Leaderboard and High scores Scene
+![Alt text](Screen%20Shot%202024-11-06%20at%205.37.57%20pm.png)
+![Alt text](Storyboard%20support%204.jpg)
