@@ -30,7 +30,7 @@ The game will add new areas to the map as the game continues to grow
 ## Security Requirements
 Each player will have to create an account with a secure password to help protect their account
 ## Reliability and Availability 
-The system should be online 24/7 so that people around the world anytime and play whenever they want
+The system should be online 24/7 so that people around the world anytime and can play whenever they want
 # Consideration of Social and ethical issues
 ## Define the following terms
 ## Accessibility
@@ -53,8 +53,8 @@ Guidance - There won't be any symbols or themes relating to any cultures or area
 | Name              | Positive | Negative | Implication |
 | :---------------- | :------: | -------: | -------: |
 | Spiderman 2       |    The idea of the game is very engaging it involves a popular superhero spiderman, The game can improve hand-eye coordination, motor skills,  and quick-thinking skills which are useful for younger kids. Spiderman 2 can help your memory as you need to remember where things are located in different parts of the city, | Spiderman 2 is one of the most popular games because of how addicting it is. Spiderman 2 is also too repetitive and similar to the first game The main plot wasn't very interesting and was finished too quickly  | The idea of having an explorable map is very interesting and something I would like to add to my game.  |
-|         NBA2K   |   The game has multiple different modes, which help keep the game entertaining over a longer time. The game can help your memory. Your memory can be trained as you need to smoothly press different buttons to shoot, pass, set screens, run plays, block, steal, defend, sprint, and more. The in-game currency in NBA can be earned in other ways rather than buying with real money.   | The game gets replaced every year. Every year 2k releases the next version of NBA and shuts down the servers to an older version making it unplayable. This will cause kids to spend money on the new version, When they release a new version the preorders normally cost around 120$ which is very expensive, A lot of things in My Career cost money including packs and upgrading your player. | The idea to gain in-game currency without paying for it is good, this will help kids not spend more money on the game. |
-| Brawlstars  |  The game gets constant updates making the game feel brand new and interesting. The progression system is very easy to understand, you have to get wins with brawlers and get more brawlers and gain more total trophies. The developers give the Brawl Stars community lots of events which can help people get a lot of free rewards.   | The game is very addicting, The game constantly makes updates and changes to make people play even more. The game makes a brawl pass.  This causes them to spend even more money on the game they are able to do this by showing the rewards they miss out on without a brawl pass. The game is very toxic. The developers constantly release toxic and negative pins, which can lead to online bullying. | Events. This is a fun way to cause the community to work together and unlock fun rewards, this will also help people progress in our game without spending money on the game. |
+|         NBA2K   |   The game has multiple different modes, which help keep the game entertaining over a longer time. The game can help your memory. Your memory can be trained as you need to smoothly press different buttons to shoot, pass, set screens, run plays, block, steal, defend, sprint, and more. The in-game currency in NBA2K can be earned in other ways rather than buying with real money.   | The game gets replaced every year. Every year 2k releases the next version of NBA and shuts down the servers to an older version making it unplayable. This will cause kids to spend money on the new version, When they release a new version the preorders normally cost around 120$ which is very expensive, A lot of things in My Career cost money including packs and upgrading your player. | The idea to gain in-game currency without paying for it is good, this will help kids not spend more money on the game. |
+| Brawlstars  |  The game gets constant updates making the game feel brand new and interesting. The progression system is very easy to understand, you have to get wins with brawlers and get more brawlers and gain more total trophies. The developers give the Brawl Stars community lots of events that can help people get a lot of free rewards.   | The game is very addicting, The game constantly makes updates and changes to make people play even more. The game makes a brawl pass.  This causes them to spend even more money on the game they are able to do this by showing the rewards they miss out on without a brawl pass. The game is very toxic. The developers constantly release toxic and negative pins, which can lead to online bullying. | Events. This is a fun way to cause the community to work together and unlock fun rewards, this will also help people progress in our game without spending money on the game. |
 
 
 ## Pseudo Code
@@ -83,13 +83,13 @@ Guidance - There won't be any symbols or themes relating to any cultures or area
 ![Alt text](Screen%20Shot%202024-11-06%20at%2011.32.23%20am.png)
 
 # StoryBoard scenes
-## Openning scene
+## Opening scene
 ![Alt text](Screen%20Shot%202024-11-06%20at%205.39.48%20pm.png)
 ![Alt text](Storyboard%20support%201.jpg)
 ## Death Scene
 ![Alt text](Death%20Scene.jpg)
 ![Alt text](Storyboard%20support%202.jpg)
-## Loaction to Teleport to Scene
+## Location to Teleport to Scene
 ![Alt text](Screen%20Shot%202024-11-06%20at%205.39.00%20pm.png)
 ![Alt text](Storyboard%20support%203.jpg)
 ## Leaderboard and High scores Scene
